@@ -9,10 +9,10 @@ A simple bot for e-sim.org
 # WIP
 - Battles
 - Fly to workplace
+- Gold - Currency conversion
 
 # Coming soon...
 - Battle Hunter
-- Gold - Currency conversion
 - Max dmg in battle (buying buffs)
 - Auction Hunter
 - Best paid job finder
