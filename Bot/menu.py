@@ -18,8 +18,8 @@ def run(usr, passw, srv):
 def runOne():
     user = input("Username: ")
     passw = input("Password: ")
-    ac.printServers()
-    srv = ac.servers.get(input("Server: "))
+    acc.printServers()
+    srv = acc.servers.get(input("Server: "))
     run(user, passw, srv)
     
     return
