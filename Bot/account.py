@@ -1,9 +1,9 @@
 servers = { '1': "primera", '2': "secura", '3': "suna",
-            '4': "nebula", '5': "xix", '6': "xaria" }
+            '4': "nebula", '5': "xix", '6': "xaria", '7':"alpha" }
 
 
 def printServers():
-    print("1 - Primera\n2 - Secura\n3 - Suna\n4 - Nebula\n5 - XIX\n6 - Xaria")
+    print("1 - Primera\n2 - Secura\n3 - Suna\n4 - Nebula\n5 - XIX\n6 - Xaria\n7 - Alpha")
     return
 
 def showAccounts():
